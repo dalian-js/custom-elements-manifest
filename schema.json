@@ -183,6 +183,11 @@
                 "return": {
                     "properties": {
                         "description": {
+                            "description": "A markdown description.",
+                            "type": "string"
+                        },
+                        "summary": {
+                            "description": "A markdown summary suitable for display in a listing.",
                             "type": "string"
                         },
                         "type": {
@@ -504,6 +509,11 @@
                 "return": {
                     "properties": {
                         "description": {
+                            "description": "A markdown description.",
+                            "type": "string"
+                        },
+                        "summary": {
+                            "description": "A markdown summary suitable for display in a listing.",
                             "type": "string"
                         },
                         "type": {
@@ -619,6 +629,11 @@
                 "return": {
                     "properties": {
                         "description": {
+                            "description": "A markdown description.",
+                            "type": "string"
+                        },
+                        "summary": {
+                            "description": "A markdown summary suitable for display in a listing.",
                             "type": "string"
                         },
                         "type": {
@@ -732,6 +747,7 @@
                     "type": "string"
                 },
                 "path": {
+                    "description": "Path to the javascript file needed to be imported. \n(not the path for example to a typescript file.)",
                     "type": "string"
                 },
                 "summary": {
@@ -797,6 +813,11 @@
                 "return": {
                     "properties": {
                         "description": {
+                            "description": "A markdown description.",
+                            "type": "string"
+                        },
+                        "summary": {
+                            "description": "A markdown summary suitable for display in a listing.",
                             "type": "string"
                         },
                         "type": {
